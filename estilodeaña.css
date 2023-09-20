@@ -1,6 +1,6 @@
 body
 {
-    color: #215bb1;
+    color: #35373a;
     text-align: center;
     font-family: "Arial";
     margin: 0;
@@ -23,7 +23,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: rgb(212, 247, 147);
     color: white;
     margin: 0;
     padding: 0.5em;
